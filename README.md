@@ -1,4 +1,21 @@
 # KBC_game
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #game
 questions = [
     ["what is the national game of India", "cricket", "baseball", "hockey", "football", "none", 3],
